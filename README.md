@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/alreza_rz" target="blank"><img src="https://img.shields.io/twitter/follow/alreza_rz?logo=twitter&style=for-the-badge" alt="alreza_rz" /></a> </p>
 
+- 👨‍💻 My Resume =>  [https://drive.google.com/file/d/1wLK0eZJ8B0aopjFJKIDAJ5sieHuB8pyn/view?usp=drive_link]
+
 - 👨‍💻 All of my projects are available at [https://github.com/Alireza-rezaei](https://github.com/Alireza-rezaei)
 
 - 💬 Ask me about **React Js and Javascript**
